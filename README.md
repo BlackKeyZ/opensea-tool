@@ -2,7 +2,9 @@ A web tool to list one item multi time.
 
 # Usage:
 
-Because MetaMask should connect to a domain name, you must run a http server on localhost, and then open the main page.
+You can visit https://blackkeyz.github.io/opensea-tool/
+
+Or you can use it locally. If so, because MetaMask should connect to a domain name, you must run a http server on localhost, and then open the main page.
 
 ## Step:
 1. install node.js from https://nodejs.org/en/download/
