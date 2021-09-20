@@ -9,7 +9,7 @@ Because MetaMask should connect to a domain name, you must run a http server on 
 
 2. install http-server, run this command in your terminal: `npm install --global http-server`
 
-3. cd to this project folder, run this command: `http-server build` , it will show message like this
+3. cd to this project folder, run this command: `http-server dist` , it will show message like this
 ```
 Available on:
   http://127.0.0.1:8080
@@ -23,4 +23,4 @@ Available on:
 ## Compile
 You can re build this project. I assume you are a developer and installed node and yarn
 run `yarn install && yarn run build`
-then the static files are under build folder.
+then the static files are under dist folder.

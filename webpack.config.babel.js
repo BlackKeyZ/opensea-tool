@@ -8,7 +8,7 @@ module.exports = {
   output: {
     filename: 'main_[chunkhash:8].js',
     chunkFilename: 'main_[name]_[chunkhash:8].js',
-    path: path.join(__dirname, 'build'),
+    path: path.join(__dirname, 'dist'),
     //publicPath: '/'
   },
   plugins: [
