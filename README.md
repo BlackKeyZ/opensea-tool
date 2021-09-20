@@ -7,13 +7,9 @@ Because MetaMask should connect to a domain name, you must run a http server on 
 ## Step:
 1. install node.js from https://nodejs.org/en/download/
 
-2. install http-server
-run this command in your terminal
-`npm install --global http-server`
+2. install http-server, run this command in your terminal: `npm install --global http-server`
 
-3. cd to this project folder, run this command
-`http-server build`
-it will show message like this
+3. cd to this project folder, run this command: `http-server build` , it will show message like this
 ```
 Available on:
   http://127.0.0.1:8080
